@@ -1,0 +1,29 @@
+.name{
+  display: flex;
+  padding: 40px;
+}
+.App h1{
+  padding-left: 40px;
+}
+.name h4{
+  padding:0px 20px;
+}
+.name input{
+  padding: 0px 30px;
+}
+
+
+.btn{
+  padding-left: 40px;
+}
+.btn input{
+  padding: 20px 40px;
+  border: none;
+  background-color: #7f3d91;
+  color: white;
+}
+
+.year{
+  display: flex;
+  padding-left: 40px;
+}
